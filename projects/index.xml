@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Projects on Chris Mony</title>
-        <link>localhost/projects/</link>
+        <link>ch-mon.github.io/projects/</link>
         <description>Recent content in Projects on Chris Mony</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="localhost/projects/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="ch-mon.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Fashion recognition</title>
-            <link>localhost/projects/fashionrecognition/</link>
+            <link>ch-mon.github.io/projects/fashionrecognition/</link>
             <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
             
-            <guid>localhost/projects/fashionrecognition/</guid>
+            <guid>ch-mon.github.io/projects/fashionrecognition/</guid>
             <description>During quarantine, some friends and me decided to tackle a exciting project. It was centered around training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to find relevant posts from influencers and create a keyword which potentially generates more traffic the next days and can be used for GoogleAdWords Marketing.
 We started with the Google Open Image Database and trained a Yolo-V3 CNN in Google Colab to recognize different fashion articles (e.</description>
             <content type="html"><![CDATA[<p>During quarantine, some friends and me decided to tackle a exciting project. It was centered around training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to find relevant posts from influencers and create a keyword which potentially generates more traffic the next days and can be used for GoogleAdWords Marketing.</p>
@@ -25,10 +25,10 @@ We started with the Google Open Image Database and trained a Yolo-V3 CNN in Goog
         
         <item>
             <title>Learning phase transitions with Machine Learning</title>
-            <link>localhost/projects/phasetransition/</link>
+            <link>ch-mon.github.io/projects/phasetransition/</link>
             <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
             
-            <guid>localhost/projects/phasetransition/</guid>
+            <guid>ch-mon.github.io/projects/phasetransition/</guid>
             <description>The first principal component shows hifh correlation with the order parameter.
   Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistcal model. Hereby, apart from a pratical course during the studies, I had never worked with machine learning before, so this was a great opportunity to dig deeper into the topic.</description>
             <content type="html"><![CDATA[<figure class="center">

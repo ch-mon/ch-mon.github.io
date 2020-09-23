@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>untagged on Chris Mony</title>
-    <link>localhost/tags/untagged/</link>
+    <link>ch-mon.github.io/tags/untagged/</link>
     <description>Recent content in untagged on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ch-mon.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fashion recognition</title>
-      <link>localhost/projects/fashionrecognition/</link>
+      <link>ch-mon.github.io/projects/fashionrecognition/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/projects/fashionrecognition/</guid>
+      <guid>ch-mon.github.io/projects/fashionrecognition/</guid>
       <description>During quarantine, some friends and me decided to tackle a exciting project. It was centered around training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to find relevant posts from influencers and create a keyword which potentially generates more traffic the next days and can be used for GoogleAdWords Marketing.
 We started with the Google Open Image Database and trained a Yolo-V3 CNN in Google Colab to recognize different fashion articles (e.</description>
     </item>
     
     <item>
       <title>My experience with Working Out Loud (WOL)</title>
-      <link>localhost/posts/working-out-loud/</link>
+      <link>ch-mon.github.io/posts/working-out-loud/</link>
       <pubDate>Sat, 11 Jul 2020 15:14:02 +0200</pubDate>
       
-      <guid>localhost/posts/working-out-loud/</guid>
+      <guid>ch-mon.github.io/posts/working-out-loud/</guid>
       <description>During my last internship, I got to learn a lot of awesome things. Besides slide-building and clear communication, I was exposed to the Working Out Loud (WOL) method by John Stepper. WOL is a method, where a few people come together to form a so-called circle.</description>
     </item>
     

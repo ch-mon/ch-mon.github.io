@@ -2,68 +2,68 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Mony</title>
-    <link>localhost/</link>
+    <link>ch-mon.github.io/</link>
     <description>Recent content on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ch-mon.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Fashion recognition</title>
-      <link>localhost/projects/fashionrecognition/</link>
+      <link>ch-mon.github.io/projects/fashionrecognition/</link>
       <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>localhost/projects/fashionrecognition/</guid>
+      <guid>ch-mon.github.io/projects/fashionrecognition/</guid>
       <description>During quarantine, some friends and me decided to tackle a exciting project. It was centered around training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to find relevant posts from influencers and create a keyword which potentially generates more traffic the next days and can be used for GoogleAdWords Marketing.
 We started with the Google Open Image Database and trained a Yolo-V3 CNN in Google Colab to recognize different fashion articles (e.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>localhost/about/</link>
+      <link>ch-mon.github.io/about/</link>
       <pubDate>Sat, 11 Jul 2020 15:34:32 +0200</pubDate>
       
-      <guid>localhost/about/</guid>
+      <guid>ch-mon.github.io/about/</guid>
       <description>My name is Chris (actually Christoph, but just call me Chris) and I warmly welcome you on my website. If I had to summarize in one sentence who I am, I would describe myself as someone who is driven by a strong passion for learning &amp;amp; utilizing the newest technologies (it is crazy what is currently happening out there), while on the other hand trying to retain balance in the fast-paced environment of our today&amp;rsquo;s world.</description>
     </item>
     
     <item>
       <title>Life (Curriculum Vitae)</title>
-      <link>localhost/life/</link>
+      <link>ch-mon.github.io/life/</link>
       <pubDate>Sat, 11 Jul 2020 15:34:32 +0200</pubDate>
       
-      <guid>localhost/life/</guid>
+      <guid>ch-mon.github.io/life/</guid>
       <description>If you look it up on Wikipedia, Curriculum Vitae loosely translates from Latin as course of life. As Wikipedia continues to know, it usually rather refers to the complete record of someone&amp;rsquo;s career. However, as work is an important part of our lifes, for this page I will refer back to this original meaning. By doing so I will reach beyond the limitations of a CV and express the course of my life by trying to draw a more whole picture - including the important stations and shaping moments of in my life.</description>
     </item>
     
     <item>
       <title>Reads</title>
-      <link>localhost/reads/</link>
+      <link>ch-mon.github.io/reads/</link>
       <pubDate>Sat, 11 Jul 2020 15:34:32 +0200</pubDate>
       
-      <guid>localhost/reads/</guid>
+      <guid>ch-mon.github.io/reads/</guid>
       <description>Here are the books I manged to read over the years. I feel it all adds up and becomes bigger than the sum of its parts. Currently still trying to figure out when to re-read a book, but really good quote I have heard once
  I cannot remember the books I&amp;rsquo;ve read any more than the meals I have eaten; even so, they have made me. -Ralph Waldo Emerson</description>
     </item>
     
     <item>
       <title>My experience with Working Out Loud (WOL)</title>
-      <link>localhost/posts/working-out-loud/</link>
+      <link>ch-mon.github.io/posts/working-out-loud/</link>
       <pubDate>Sat, 11 Jul 2020 15:14:02 +0200</pubDate>
       
-      <guid>localhost/posts/working-out-loud/</guid>
+      <guid>ch-mon.github.io/posts/working-out-loud/</guid>
       <description>During my last internship, I got to learn a lot of awesome things. Besides slide-building and clear communication, I was exposed to the Working Out Loud (WOL) method by John Stepper. WOL is a method, where a few people come together to form a so-called circle.</description>
     </item>
     
     <item>
       <title>Learning phase transitions with Machine Learning</title>
-      <link>localhost/projects/phasetransition/</link>
+      <link>ch-mon.github.io/projects/phasetransition/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost/projects/phasetransition/</guid>
+      <guid>ch-mon.github.io/projects/phasetransition/</guid>
       <description>The first principal component shows hifh correlation with the order parameter.
   Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistcal model. Hereby, apart from a pratical course during the studies, I had never worked with machine learning before, so this was a great opportunity to dig deeper into the topic.</description>
     </item>

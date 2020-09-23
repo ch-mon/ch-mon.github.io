@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on Chris Mony</title>
-    <link>localhost/tags/machine-learning/</link>
+    <link>ch-mon.github.io/tags/machine-learning/</link>
     <description>Recent content in machine learning on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="localhost/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="ch-mon.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning phase transitions with Machine Learning</title>
-      <link>localhost/projects/phasetransition/</link>
+      <link>ch-mon.github.io/projects/phasetransition/</link>
       <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>localhost/projects/phasetransition/</guid>
+      <guid>ch-mon.github.io/projects/phasetransition/</guid>
       <description>The first principal component shows hifh correlation with the order parameter.
   Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistcal model. Hereby, apart from a pratical course during the studies, I had never worked with machine learning before, so this was a great opportunity to dig deeper into the topic.</description>
     </item>
