@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Chris Mony</title>
+    <link>localhost/tags/</link>
+    <description>Recent content in Tags on Chris Mony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="localhost/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>untagged</title>
+      <link>localhost/tags/untagged/</link>
+      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/untagged/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>localhost/tags/machine-learning/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>physics</title>
+      <link>localhost/tags/physics/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>statistical physics</title>
+      <link>localhost/tags/statistical-physics/</link>
+      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>localhost/tags/statistical-physics/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
