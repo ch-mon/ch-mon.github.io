@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VAE on Chris Mony</title>
-    <link>/tags/vae/</link>
+    <link>chrismony.com/tags/vae/</link>
     <description>Recent content in VAE on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 31 Aug 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/vae/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="chrismony.com/tags/vae/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Learning phase transitions with Machine Learning</title>
-      <link>/projects/phasetransition/</link>
+      <link>chrismony.com/projects/phasetransition/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>/projects/phasetransition/</guid>
+      <guid>chrismony.com/projects/phasetransition/</guid>
       <description>The first principal component shows high correlation with the order parameter.
   Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistical model. Hereby, apart from a practical course during the studies, I had never worked with machine learning before. Thus, this was a great opportunity for me to dig deeper into the topic.</description>
     </item>

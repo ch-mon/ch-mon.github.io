@@ -1,0 +1,34 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Chris Mony</title>
+        <link>chrismony.com/posts/</link>
+        <description>Recent content in Posts on Chris Mony</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sat, 26 Sep 2020 20:00:00 +0100</lastBuildDate>
+        <atom:link href="chrismony.com/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Thoughts from a fellow traveller</title>
+            <link>chrismony.com/posts/thoughtsfromafellowtraveler/</link>
+            <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
+            
+            <guid>chrismony.com/posts/thoughtsfromafellowtraveler/</guid>
+            <description>Fully loaded bike in front of Lund University.
+  Last year, I traveled by bike for three months. Everything I needed, I could fit either into one of my four bags or over the rack (as you can see above). Even though it feels like I experienced more during those three months than during a typical year, the days were quite routinized. Wake up, meditate, have breakfast, pack the tent, cycle for 70-120 km, search for a spot to spend the night, set up the tent, have dinner, write journal, and fall asleep.</description>
+            <content type="html"><![CDATA[<figure class="center">
+    <img src="../images/BikeLund.jpg"
+         alt="Fully loaded bike in front of Lund University." width="500"/> <figcaption>
+            <p>Fully loaded bike in front of Lund University.</p>
+        </figcaption>
+</figure>
+
+<p>Last year, I traveled by bike for three months. Everything I needed, I could fit either into one of my four bags or over the rack (as you can see above). Even though it feels like I experienced more during those three months than during a typical year, the days were quite routinized. Wake up, meditate, have breakfast, pack the tent, cycle for 70-120 km, search for a spot to spend the night, set up the tent, have dinner, write journal, and fall asleep. Repeat.</p>
+<p>While I was cycling, I experienced a whole spectrum of different emotions &amp; thoughts. Sometimes, I was just incredibly happy and fully immersed in my surroundings. Other times, I truly reconsidered what it was that I was doing there. However, the majority of the time, I was thinking neither particularly good nor particularly bad thoughts. Sometimes, random thoughts popped into my mind and transformed into others - just to fade away again. Sometimes, it was a cue in my environment, which triggered a thought, sometimes I picked a topic I wanted to thoroughly think through. No matter what, every evening, I would write a new thing I had learned in my journal. Somehow I felt like the protagonist John from &ldquo;The why are you here café&rdquo;. Same as him, I would have forgotten most of my learnings had I not caught them on paper.</p>
+<p>The thoughts I wrote down had a large variety. Sometimes, they were about minimalism and owning less unnecessary stuff, sometimes about the influences of our deeds onto the people in our surroundings, sometimes about anxiousness and how it impacts our life way too often. No matter what, I felt like those thoughts somehow reflected and shaped my thinking at the same time. In hindsight, I often view it as taking a step back and seeing my life without my conditioned everyday filters.</p>
+<p>Since I am back in civilization for quite some time already, I do feel like those little learnings have altered strongly. I do learn other stuff I am excited about, and I am in touch with different groups of people. However, my thought patterns were different out there with no given assignments, no protective stone walls around me, and fewer people.  For this reason, I decided to bridge this chasm in this blog. One the one hand, I want to share what currently fascinates me in my everyday life. On the other hand, from time to time, I want to take a step back and dedicate certain articles to some of my past learnings during my travels. I am convinced that you will find some of them insightful. Perhaps, as for me, they even help you see the world with a little more different eyes.</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,19 +1,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Projects on Chris Mony</title>
-        <link>/projects/</link>
+        <link>chrismony.com/projects/</link>
         <description>Recent content in Projects on Chris Mony</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="chrismony.com/projects/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Fashion recognition</title>
-            <link>/projects/fashionrecognition/</link>
+            <link>chrismony.com/projects/fashionrecognition/</link>
             <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
             
-            <guid>/projects/fashionrecognition/</guid>
+            <guid>chrismony.com/projects/fashionrecognition/</guid>
             <description>Watch Classification. Photo by Eliud Gil Samaniego.
   Background During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
             <content type="html"><![CDATA[<figure class="center">
@@ -68,10 +68,10 @@
         
         <item>
             <title>Learning phase transitions with Machine Learning</title>
-            <link>/projects/phasetransition/</link>
+            <link>chrismony.com/projects/phasetransition/</link>
             <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
             
-            <guid>/projects/phasetransition/</guid>
+            <guid>chrismony.com/projects/phasetransition/</guid>
             <description>The first principal component shows high correlation with the order parameter.
   Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistical model. Hereby, apart from a practical course during the studies, I had never worked with machine learning before. Thus, this was a great opportunity for me to dig deeper into the topic.</description>
             <content type="html"><![CDATA[<figure class="center">
