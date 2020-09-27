@@ -2,23 +2,33 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>machine learning on Chris Mony</title>
-    <link>ch-mon.github.io/tags/machine-learning/</link>
+    <link>/tags/machine-learning/</link>
     <description>Recent content in machine learning on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 12 Jul 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="ch-mon.github.io/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/machine-learning/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learning phase transitions with Machine Learning</title>
-      <link>ch-mon.github.io/projects/phasetransition/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <title>Fashion recognition</title>
+      <link>/projects/fashionrecognition/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>ch-mon.github.io/projects/phasetransition/</guid>
-      <description>The first principal component shows hifh correlation with the order parameter.
-  Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistcal model. Hereby, apart from a pratical course during the studies, I had never worked with machine learning before, so this was a great opportunity to dig deeper into the topic.</description>
+      <guid>/projects/fashionrecognition/</guid>
+      <description>Watch Classification. Photo by Eliud Gil Samaniego.
+  Background During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
+    </item>
+    
+    <item>
+      <title>Learning phase transitions with Machine Learning</title>
+      <link>/projects/phasetransition/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/phasetransition/</guid>
+      <description>The first principal component shows high correlation with the order parameter.
+  Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistical model. Hereby, apart from a practical course during the studies, I had never worked with machine learning before. Thus, this was a great opportunity for me to dig deeper into the topic.</description>
     </item>
     
   </channel>

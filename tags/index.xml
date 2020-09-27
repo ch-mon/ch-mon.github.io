@@ -2,48 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chris Mony</title>
-    <link>ch-mon.github.io/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="ch-mon.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>untagged</title>
-      <link>ch-mon.github.io/tags/untagged/</link>
-      <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+      <title>reflection</title>
+      <link>/tags/reflection/</link>
+      <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>ch-mon.github.io/tags/untagged/</guid>
+      <guid>/tags/reflection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>travelling</title>
+      <link>/tags/travelling/</link>
+      <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
+      
+      <guid>/tags/travelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CNN</title>
+      <link>/tags/cnn/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/cnn/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer vision</title>
+      <link>/tags/computer-vision/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>ch-mon.github.io/tags/machine-learning/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>ch-mon.github.io/tags/machine-learning/</guid>
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>scraping</title>
+      <link>/tags/scraping/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/scraping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supervised learning</title>
+      <link>/tags/supervised-learning/</link>
+      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/supervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MCMC</title>
+      <link>/tags/mcmc/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/mcmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PCA</title>
+      <link>/tags/pca/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/pca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>physics</title>
-      <link>ch-mon.github.io/tags/physics/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <link>/tags/physics/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>ch-mon.github.io/tags/physics/</guid>
+      <guid>/tags/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>statistical physics</title>
-      <link>ch-mon.github.io/tags/statistical-physics/</link>
-      <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+      <link>/tags/statistical-physics/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>ch-mon.github.io/tags/statistical-physics/</guid>
+      <guid>/tags/statistical-physics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>unsupervised learning</title>
+      <link>/tags/unsupervised-learning/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/unsupervised-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VAE</title>
+      <link>/tags/vae/</link>
+      <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/vae/</guid>
       <description></description>
     </item>
     

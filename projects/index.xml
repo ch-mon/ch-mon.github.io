@@ -1,51 +1,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Projects on Chris Mony</title>
-        <link>ch-mon.github.io/projects/</link>
+        <link>/projects/</link>
         <description>Recent content in Projects on Chris Mony</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Tue, 22 Sep 2020 00:00:00 +0000</lastBuildDate>
-        <atom:link href="ch-mon.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+        <lastBuildDate>Sat, 22 Aug 2020 00:00:00 +0000</lastBuildDate>
+        <atom:link href="/projects/index.xml" rel="self" type="application/rss+xml" />
         
         <item>
             <title>Fashion recognition</title>
-            <link>ch-mon.github.io/projects/fashionrecognition/</link>
-            <pubDate>Tue, 22 Sep 2020 00:00:00 +0000</pubDate>
+            <link>/projects/fashionrecognition/</link>
+            <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
             
-            <guid>ch-mon.github.io/projects/fashionrecognition/</guid>
-            <description>During quarantine, some friends and me decided to tackle a exciting project. It was centered around training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to find relevant posts from influencers and create a keyword which potentially generates more traffic the next days and can be used for GoogleAdWords Marketing.
-We started with the Google Open Image Database and trained a Yolo-V3 CNN in Google Colab to recognize different fashion articles (e.</description>
-            <content type="html"><![CDATA[<p>During quarantine, some friends and me decided to tackle a exciting project. It was centered around training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to find relevant posts from influencers and create a keyword which potentially generates more traffic the next days and can be used for GoogleAdWords Marketing.</p>
-<p>We started with the <a href="https://storage.googleapis.com/openimages/web/index.html">Google Open Image Database</a> and trained a Yolo-V3 CNN in Google Colab to recognize different fashion articles (e.g. dresses, shoes, &hellip;) on several thousands of pictures. Afterwards, we&rsquo;d scrape some influencer pictures from Instagram and would classify them whether they contain fashion articles. After cropping and detecting the main color of the item, we decided to give out a keyword in the form of &ldquo;(Influencer name) (main color) (fashion articel)&rdquo; (e.g. &ldquo;Adele Blue Dress&rdquo;). Afterwards, we&rsquo;d map this result to GoogleTrends via an Python-API and check for any significant peaks in the search interest. Lastely, we also played around with setting up a small front-end for the CNN using steamlit.</p>
-<p>The total pipeline which we used can be summarized in the following way:</p>
-<p>TO conclude, for me this project was a fascinating chance for learning. One had to dig into differnt solutions for the different challenges which arouse during the development and I was able to strenghten my skills in web-scraping, utilizing state-of-the-art ML models, APIs and front-end development.</p>
+            <guid>/projects/fashionrecognition/</guid>
+            <description>Watch Classification. Photo by Eliud Gil Samaniego.
+  Background During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
+            <content type="html"><![CDATA[<figure class="center">
+    <img src="../images/WatchClassification.jpg"
+         alt="Watch Classification. Photo by Eliud Gil Samaniego." height="500"/> <figcaption>
+            <p>Watch Classification. Photo by <a href="https://unsplash.com/@eliudartphotographer?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Eliud Gil Samaniego</a>.</p>
+        </figcaption>
+</figure>
+
+<h2 id="background">Background</h2>
+<p>During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</p>
+<h2 id="project-description">Project description</h2>
+<p>We started with the <a href="https://storage.googleapis.com/openimages/web/index.html">Google Open Image Database</a> and trained a <a href="https://pjreddie.com/darknet/yolo/">Yolo-V3</a> CNN in <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab</a> to recognize 25 different fashion articles (e.g. dresses, watches, &hellip;) on several thousands of pictures. Afterward, we scraped images from selected Instagram influencer accounts and used the trained CNN for classification of fashion articles in those images. Then, we cropped the detected items and identified the main color via a k-means clustering algorithm. Finally, we were able to build a keyword of the form &ldquo;Influencer name + main color + fashion article&rdquo; (e.g. &ldquo;David Beckham Golden Watch&rdquo;). We also built a small front-end for the CNN classification using <a href="https://www.streamlit.io/">Streamlit</a>. In the next paragraph, I discuss what would happen to the keyword after generation.</p>
+<p>The whole project is based upon one assumption: <em>Influencer Instagram posts with fashion articles lead to increased search volume for this article in the consecutive hours/days</em>. First, we tried to verify this thesis manually, however then moved on to apply an automated Google Trends Mapping. We queried the keyword to GoogleTrends via a Python-API (<a href="https://pypi.org/project/pytrends/">PyTrends</a>) and checked for any significant peaks in the search interest. In contrast, in production, one would directly use the obtained keyword for Google Ads. The whole project pipeline is illustrated below.</p>
+<figure class="center">
+    <img src="../images/FashionAdPipeline.jpg"
+         alt="Schematic vizualization of the end-to-end pipeline."/> <figcaption>
+            <p>Schematic vizualization of the end-to-end pipeline.</p>
+        </figcaption>
+</figure>
+
+<h2 id="results">Results</h2>
+<p>We brought the project to a point where the pipeline could be executed from one main file. The algorithm would receive a list of Instagram accounts, automatically generate the keywords from the scraped images, and create plots from Google Trends data.</p>
+<p>An example of a classified image is shown in the first picture of this post. Here, the CNN detected the watch with 94% confidence. One might wonder why the shoe is not classified as well, since it is also well visible. This results from the fact that our training categories did not involve shoes directly but rather the more specialized forms &ldquo;boot&rdquo;, &ldquo;high heel&rdquo;, and &ldquo;sandal&rdquo;. Since our focus laid on creating a Proof of Concept (PoC), of course, more categories are a natural extension.</p>
+<p>However, at this point, we encountered more severe difficulties. First,  Google Trends data has to be interpreted with care since it only gives you a relative number of search queries. Until now, we still had no way of objectively verifying our basic assumption that our keywords would actually generate more traffic. Second, often the CNN would (correctly) recognize items that were almost invisible or not in the main focus of the image. Even a CNN with 100% accuracy would not be able to decide upon the &ldquo;quality&rdquo; of keywords (i.e. keywords from items that receive little to no traffic due to not being in the focus of the picture). Due to these two impediments, which we could not resolve with our resources, we decided to end the project here and take it as a great learning experience.</p>
+<h2 id="learnings">Learnings</h2>
+<p>To conclude, for me, the project was a fascinating chance for learning more about &ldquo;real&rdquo; data science. We had to dig into different solutions for the arising challenges during development. I was able to strengthen my skills in:</p>
+<ul>
+<li>Programming
+<ul>
+<li>Python &amp; corresponding packages
+<ul>
+<li>Pandas, Selenium, Pillow, PyTrends, Streamlit</li>
+</ul>
+</li>
+<li>Anaconda</li>
+<li>Google Colab interaction</li>
+</ul>
+</li>
+<li>Methodological
+<ul>
+<li>Web scraping</li>
+<li>Training of &amp; classifying with state-of-the-art image recognition models (CNNs)</li>
+<li>Basic frontend-setup for Data Science projects</li>
+</ul>
+</li>
+</ul>
+<h2 id="code">Code</h2>
+<p>Code is currently still private (&amp; messy), however, we work on making it public soon.</p>
 ]]></content>
         </item>
         
         <item>
             <title>Learning phase transitions with Machine Learning</title>
-            <link>ch-mon.github.io/projects/phasetransition/</link>
-            <pubDate>Thu, 12 Jul 2018 00:00:00 +0000</pubDate>
+            <link>/projects/phasetransition/</link>
+            <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
             
-            <guid>ch-mon.github.io/projects/phasetransition/</guid>
-            <description>The first principal component shows hifh correlation with the order parameter.
-  Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistcal model. Hereby, apart from a pratical course during the studies, I had never worked with machine learning before, so this was a great opportunity to dig deeper into the topic.</description>
+            <guid>/projects/phasetransition/</guid>
+            <description>The first principal component shows high correlation with the order parameter.
+  Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistical model. Hereby, apart from a practical course during the studies, I had never worked with machine learning before. Thus, this was a great opportunity for me to dig deeper into the topic.</description>
             <content type="html"><![CDATA[<figure class="center">
-    <img src="../OrderParameterRodModel.png"
-         alt="The first principal component shows hifh correlation with the order parameter." width="600"/> <figcaption>
-            <p>The first principal component shows hifh correlation with the order parameter.</p>
+    <img src="../images/OrderParameterRodModel.png"
+         alt="The first principal component shows high correlation with the order parameter." width="600"/> <figcaption>
+            <p>The first principal component shows high correlation with the order parameter.</p>
         </figcaption>
 </figure>
 
 <h2 id="background">Background</h2>
-<p>This project is concerned with the work of my <strong>Bachelor&rsquo;s thesis</strong>. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistcal model. Hereby, apart from a pratical course during the studies, I had never worked with machine learning before, so this was a great opportunity to dig deeper into the topic. Also, the thesis formed my first real contact with the Python programming language.</p>
+<p>This project is concerned with the work of my <strong>Bachelor&rsquo;s thesis</strong>. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistical model. Hereby, apart from a practical course during the studies, I had never worked with machine learning before. Thus, this was a great opportunity for me to dig deeper into the topic. Moreover, the thesis formed my first real contact with the Python programming language.</p>
 <h2 id="project-description">Project description</h2>
-<p>First, we began by reproducing the previous work of other researchers (<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.022140">Wetzel, 2017</a>; <a href="https://arxiv.org/abs/1803.08823">Metha et. al., 2018</a>) and learned the order parameter of the 2D Ising model. Hereby, we relied on two different approaches: <strong>Principal Component Analysis (PCA)</strong> and <strong>Variational Autoencoders (VAEs)</strong>. In the next step, we applied exactly the same methodology to another physical model, the so-called rod-model (<a href="https://aip.scitation.org/doi/abs/10.1063/1.4960618">Oettel et. al., 2016</a>). For both models, the configurations needed as training data was generated by <strong>Markov-Chain-Monte-Carlo (MCMC)</strong> sampling.</p>
+<p>First, we began by reproducing the previous work of other researchers (<a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.022140">Wetzel, 2017</a>; <a href="https://arxiv.org/abs/1803.08823">Metha et. al., 2018</a>) and learned the order parameter of the 2D Ising model. Hereby, we relied on two different approaches: <strong>Principal Component Analysis (PCA)</strong> and <strong>Variational Autoencoders (VAEs)</strong>. In the next step, we applied the same methodology to another physical model, the so-called rod-model (<a href="https://aip.scitation.org/doi/abs/10.1063/1.4960618">Oettel et. al., 2016</a>). For both models, the necessary training configurations were generated via <strong>Markov-Chain-Monte-Carlo (MCMC)</strong> sampling.</p>
 <h2 id="results">Results</h2>
-<p>We were able to show, the even for the new model, the machine learning methods are able to extract the order parameter by themselves (see plot above).</p>
+<p>We were able to show that even for the new model, the machine learning methods can extract the order parameter by themselves (see plot above).</p>
 <h2 id="learnings">Learnings</h2>
-<p>For me, the thesis provided an excellent opportunity to explore the domain of machine learning. For me, the most important learnings were:</p>
+<p>For me, the thesis provided an excellent opportunity to explore the domain of machine learning. The most important learnings were:</p>
 <ul>
 <li>Programming
 <ul>
@@ -68,7 +111,7 @@ We started with the Google Open Image Database and trained a Yolo-V3 CNN in Goog
 </li>
 </ul>
 <h2 id="code">Code</h2>
-<p>The code I used for my thesis can be found in <a href="https://github.com/crizzle94/Bachelor-thesis">this GitHub repo</a>.</p>
+<p>The code for my thesis can be accessed in <a href="https://github.com/ch-mon/Bachelor-thesis">this GitHub repo</a>.</p>
 ]]></content>
         </item>
         
