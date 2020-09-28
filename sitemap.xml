@@ -3,132 +3,132 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>chrismony.com/blog/</loc>
+    <loc>/blog/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/</loc>
+    <loc>/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/posts/</loc>
+    <loc>/posts/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/reflection/</loc>
+    <loc>/tags/reflection/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/blog/thoughtsfromafellowtraveler/</loc>
+    <loc>/blog/thoughtsfromafellowtraveler/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/posts/thoughtsfromafellowtraveler/</loc>
+    <loc>/posts/thoughtsfromafellowtraveler/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/travelling/</loc>
+    <loc>/tags/travelling/</loc>
     <lastmod>2020-09-26T20:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/about/</loc>
+    <loc>/about/</loc>
     <lastmod>2020-09-25T14:00:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/personal/</loc>
+    <loc>/personal/</loc>
     <lastmod>2020-09-25T13:32:38+02:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/cnn/</loc>
+    <loc>/tags/cnn/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/computer-vision/</loc>
+    <loc>/tags/computer-vision/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/projects/fashionrecognition/</loc>
+    <loc>/projects/fashionrecognition/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/machine-learning/</loc>
+    <loc>/tags/machine-learning/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/projects/</loc>
+    <loc>/projects/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/scraping/</loc>
+    <loc>/tags/scraping/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/supervised-learning/</loc>
+    <loc>/tags/supervised-learning/</loc>
     <lastmod>2020-08-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/reads/</loc>
+    <loc>/reads/</loc>
     <lastmod>2020-07-11T15:34:32+02:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/projects/phasetransition/</loc>
+    <loc>/projects/phasetransition/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/mcmc/</loc>
+    <loc>/tags/mcmc/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/pca/</loc>
+    <loc>/tags/pca/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/physics/</loc>
+    <loc>/tags/physics/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/statistical-physics/</loc>
+    <loc>/tags/statistical-physics/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/unsupervised-learning/</loc>
+    <loc>/tags/unsupervised-learning/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/tags/vae/</loc>
+    <loc>/tags/vae/</loc>
     <lastmod>2018-08-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>chrismony.com/categories/</loc>
+    <loc>/categories/</loc>
   </url>
   
 </urlset>

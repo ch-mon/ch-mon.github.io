@@ -2,129 +2,129 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Chris Mony</title>
-    <link>chrismony.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Sep 2020 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="chrismony.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>reflection</title>
-      <link>chrismony.com/tags/reflection/</link>
+      <link>/tags/reflection/</link>
       <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>chrismony.com/tags/reflection/</guid>
+      <guid>/tags/reflection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>travelling</title>
-      <link>chrismony.com/tags/travelling/</link>
+      <link>/tags/travelling/</link>
       <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>chrismony.com/tags/travelling/</guid>
+      <guid>/tags/travelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CNN</title>
-      <link>chrismony.com/tags/cnn/</link>
+      <link>/tags/cnn/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/cnn/</guid>
+      <guid>/tags/cnn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>computer vision</title>
-      <link>chrismony.com/tags/computer-vision/</link>
+      <link>/tags/computer-vision/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/computer-vision/</guid>
+      <guid>/tags/computer-vision/</guid>
       <description></description>
     </item>
     
     <item>
       <title>machine learning</title>
-      <link>chrismony.com/tags/machine-learning/</link>
+      <link>/tags/machine-learning/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/machine-learning/</guid>
+      <guid>/tags/machine-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>scraping</title>
-      <link>chrismony.com/tags/scraping/</link>
+      <link>/tags/scraping/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/scraping/</guid>
+      <guid>/tags/scraping/</guid>
       <description></description>
     </item>
     
     <item>
       <title>supervised learning</title>
-      <link>chrismony.com/tags/supervised-learning/</link>
+      <link>/tags/supervised-learning/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/supervised-learning/</guid>
+      <guid>/tags/supervised-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MCMC</title>
-      <link>chrismony.com/tags/mcmc/</link>
+      <link>/tags/mcmc/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/mcmc/</guid>
+      <guid>/tags/mcmc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PCA</title>
-      <link>chrismony.com/tags/pca/</link>
+      <link>/tags/pca/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/pca/</guid>
+      <guid>/tags/pca/</guid>
       <description></description>
     </item>
     
     <item>
       <title>physics</title>
-      <link>chrismony.com/tags/physics/</link>
+      <link>/tags/physics/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/physics/</guid>
+      <guid>/tags/physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>statistical physics</title>
-      <link>chrismony.com/tags/statistical-physics/</link>
+      <link>/tags/statistical-physics/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/statistical-physics/</guid>
+      <guid>/tags/statistical-physics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>unsupervised learning</title>
-      <link>chrismony.com/tags/unsupervised-learning/</link>
+      <link>/tags/unsupervised-learning/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/unsupervised-learning/</guid>
+      <guid>/tags/unsupervised-learning/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VAE</title>
-      <link>chrismony.com/tags/vae/</link>
+      <link>/tags/vae/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/tags/vae/</guid>
+      <guid>/tags/vae/</guid>
       <description></description>
     </item>
     

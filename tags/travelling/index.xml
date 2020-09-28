@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>travelling on Chris Mony</title>
-    <link>chrismony.com/tags/travelling/</link>
+    <link>/tags/travelling/</link>
     <description>Recent content in travelling on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Sep 2020 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="chrismony.com/tags/travelling/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/travelling/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thoughts from a fellow traveller</title>
-      <link>chrismony.com/blog/thoughtsfromafellowtraveler/</link>
+      <link>/blog/thoughtsfromafellowtraveler/</link>
       <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>chrismony.com/blog/thoughtsfromafellowtraveler/</guid>
+      <guid>/blog/thoughtsfromafellowtraveler/</guid>
       <description>Fully loaded bike in front of Lund University.
   Last year, I traveled by bike for three months. Everything I needed, I could fit either into one of my four bags or over the rack (as you can see above). Even though it feels like I experienced more during those three months than during a typical year, the days were quite routinized. Wake up, meditate, have breakfast, pack the tent, cycle for 70-120 km, search for a spot to spend the night, set up the tent, have dinner, write journal, and fall asleep.</description>
     </item>
     
     <item>
       <title>Thoughts from a fellow traveller</title>
-      <link>chrismony.com/posts/thoughtsfromafellowtraveler/</link>
+      <link>/posts/thoughtsfromafellowtraveler/</link>
       <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>chrismony.com/posts/thoughtsfromafellowtraveler/</guid>
+      <guid>/posts/thoughtsfromafellowtraveler/</guid>
       <description>Fully loaded bike in front of Lund University.
   Last year, I traveled by bike for three months. Everything I needed, I could fit either into one of my four bags or over the rack (as you can see above). Even though it feels like I experienced more during those three months than during a typical year, the days were quite routinized. Wake up, meditate, have breakfast, pack the tent, cycle for 70-120 km, search for a spot to spend the night, set up the tent, have dinner, write journal, and fall asleep.</description>
     </item>

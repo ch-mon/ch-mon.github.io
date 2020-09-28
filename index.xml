@@ -2,79 +2,79 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chris Mony</title>
-    <link>chrismony.com/</link>
+    <link>/</link>
     <description>Recent content on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Sep 2020 20:00:00 +0100</lastBuildDate>
     
-	<atom:link href="chrismony.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Thoughts from a fellow traveller</title>
-      <link>chrismony.com/blog/thoughtsfromafellowtraveler/</link>
+      <link>/blog/thoughtsfromafellowtraveler/</link>
       <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>chrismony.com/blog/thoughtsfromafellowtraveler/</guid>
+      <guid>/blog/thoughtsfromafellowtraveler/</guid>
       <description>Fully loaded bike in front of Lund University.
   Last year, I traveled by bike for three months. Everything I needed, I could fit either into one of my four bags or over the rack (as you can see above). Even though it feels like I experienced more during those three months than during a typical year, the days were quite routinized. Wake up, meditate, have breakfast, pack the tent, cycle for 70-120 km, search for a spot to spend the night, set up the tent, have dinner, write journal, and fall asleep.</description>
     </item>
     
     <item>
       <title>Thoughts from a fellow traveller</title>
-      <link>chrismony.com/posts/thoughtsfromafellowtraveler/</link>
+      <link>/posts/thoughtsfromafellowtraveler/</link>
       <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
       
-      <guid>chrismony.com/posts/thoughtsfromafellowtraveler/</guid>
+      <guid>/posts/thoughtsfromafellowtraveler/</guid>
       <description>Fully loaded bike in front of Lund University.
   Last year, I traveled by bike for three months. Everything I needed, I could fit either into one of my four bags or over the rack (as you can see above). Even though it feels like I experienced more during those three months than during a typical year, the days were quite routinized. Wake up, meditate, have breakfast, pack the tent, cycle for 70-120 km, search for a spot to spend the night, set up the tent, have dinner, write journal, and fall asleep.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>chrismony.com/about/</link>
+      <link>/about/</link>
       <pubDate>Fri, 25 Sep 2020 14:00:00 +0100</pubDate>
       
-      <guid>chrismony.com/about/</guid>
+      <guid>/about/</guid>
       <description>My name is Chris (actually Christoph, but simply call me Chris) and I warmly welcome you on my website. If I had to summarize myself in one sentence, it would be the following: I am a character who is driven by a strong passion for learning &amp;amp; utilizing the newest technologies (it is crazy what is currently happening out there), while on the other hand trying to retain balance in the fast-paced environment of our today&amp;rsquo;s world.</description>
     </item>
     
     <item>
       <title>Personal</title>
-      <link>chrismony.com/personal/</link>
+      <link>/personal/</link>
       <pubDate>Fri, 25 Sep 2020 13:32:38 +0200</pubDate>
       
-      <guid>chrismony.com/personal/</guid>
+      <guid>/personal/</guid>
       <description>If you look it up on Wikipedia, Curriculum Vitae loosely translates from Latin as course of life. As Wikipedia continues to know, it usually refers to the complete record of someone&amp;rsquo;s career. However, as much as I believe that work is a crucial part of our lives, for this website, I will refer back to the original meaning. By doing so, I will reach beyond a classical CV and express the course of my life by drawing a more wholesome picture - including important stations and most shaping moments of my life.</description>
     </item>
     
     <item>
       <title>Fashion recognition</title>
-      <link>chrismony.com/projects/fashionrecognition/</link>
+      <link>/projects/fashionrecognition/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/projects/fashionrecognition/</guid>
+      <guid>/projects/fashionrecognition/</guid>
       <description>Watch Classification. Photo by Eliud Gil Samaniego.
   Background During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
     </item>
     
     <item>
       <title>Reads</title>
-      <link>chrismony.com/reads/</link>
+      <link>/reads/</link>
       <pubDate>Sat, 11 Jul 2020 15:34:32 +0200</pubDate>
       
-      <guid>chrismony.com/reads/</guid>
+      <guid>/reads/</guid>
       <description>Here are some books, I managed to read over the years. It is crazy how fast it adds up and how the knowledge becomes larger than the sum of its parts by making connections. Currently, I am still trying to figure out when to re-read or re-listen to books, but as a good quote says
  I cannot remember the books I&amp;rsquo;ve read any more than the meals I have eaten; even so, they have made me.</description>
     </item>
     
     <item>
       <title>Learning phase transitions with Machine Learning</title>
-      <link>chrismony.com/projects/phasetransition/</link>
+      <link>/projects/phasetransition/</link>
       <pubDate>Fri, 31 Aug 2018 00:00:00 +0000</pubDate>
       
-      <guid>chrismony.com/projects/phasetransition/</guid>
+      <guid>/projects/phasetransition/</guid>
       <description>The first principal component shows high correlation with the order parameter.
   Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistical model. Hereby, apart from a practical course during the studies, I had never worked with machine learning before. Thus, this was a great opportunity for me to dig deeper into the topic.</description>
     </item>
