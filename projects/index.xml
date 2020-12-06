@@ -115,5 +115,83 @@
 ]]></content>
         </item>
         
+        <item>
+            <title>N.E.S.T. project</title>
+            <link>/projects/nestproject/</link>
+            <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+            
+            <guid>/projects/nestproject/</guid>
+            <description>Logo of the nestbau AG. Photo taken from the nestbau website.
+  Background During my time with the student consultancy InOne Consult e.V. in Tuebingen, I had the chance to work on several exciting projects. Amongst one of them was developing a Social Media Marketing Strategy for a local real estate investment fund. The N.E.S.T.bau AG (short nestbau) plans, builds, and rents out flats in the Tuebingen region under the guidance of ethical principles.</description>
+            <content type="html"><![CDATA[<figure class="center">
+    <img src="../images/NestbauProject.png"
+         alt="Logo of the nestbau AG. Photo taken from the nestbau website."/> <figcaption>
+            <p>Logo of the nestbau AG. Photo taken from the <a href="https://www.nestbau-ag.de/">nestbau website</a>.</p>
+        </figcaption>
+</figure>
+
+<h2 id="background">Background</h2>
+<p>During my time with the student consultancy InOne Consult e.V. in Tuebingen, I had the chance to work on several exciting projects. Amongst one of them was developing a Social Media Marketing Strategy for a local real estate investment fund. The N.E.S.T.bau AG (short nestbau) plans, builds, and rents out flats in the Tuebingen region under the guidance of ethical principles. Here, N.E.S.T. is an acronym for the German words &ldquo;Sustainable. Ethical. Safe. Transparent.&rdquo;. The CEO realized that he was operating in a saturated market investor-wise and thus approached us to develop a Social Media Marketing Strategy to address younger generations.</p>
+<h2 id="project-description">Project description</h2>
+<p>We structured the 3.5 month-long project into the four different phases shown below.</p>
+<figure class="center">
+    <img src="../images/StrategyPipeline.png"
+         alt="The framework we followed through the project."/> <figcaption>
+            <p>The framework we followed through the project.</p>
+        </figcaption>
+</figure>
+
+<h4 id="induction-phase">Induction phase</h4>
+<p>During the induction phase, we familiarized ourselves with the provided material. We clearly defined our goal using the <strong>SMART method</strong> (i.e., making our goal Specific, Measurable, Attainable, Realistic, and Time-Bound). Furthermore, we used a <strong>project canvas</strong> to become aware of our current position, essential milestones, and available resources.</p>
+<h4 id="market-analysis">Market analysis</h4>
+<p>The market analysis was subdivided into several aspects.</p>
+<ul>
+<li>During the <strong>stakeholder analysis</strong>, we highlighted the most relevant players in the market segment and attained actionable measures for each of them.</li>
+<li>During the <strong>competitor analysis</strong>, we obtained deep insight into the current field of real estate investment funds and the position of nestbau in it. Quickly, it became apparent that only a few investment funds pay value to social return on investment.</li>
+<li>The insights we obtained so far were used during a <strong>SWOT (Strength-Weaknesses-Opportunites-Threads) analysis</strong> to become aware of both strengths and weaknesses and how they potentially can benefit or harm nestbau.</li>
+<li>Further, we conducted <strong>legal research</strong> due to regulatory issues regarding the direct advertisement of stocks.</li>
+<li>In <strong>interviews with current investors</strong>, we obtained further insights into the motives of investing in nestbau.</li>
+<li>In the next step, we channeled much of the before obtained knowledge to identifying the <strong>USP (Unique Selling Point)</strong> of nestbau.</li>
+<li>Lastly, we derived so-called <strong>Personas</strong>, which later helped us addressing the hopes and potential fears of the target audience.</li>
+</ul>
+<h4 id="stragegy-development">Stragegy development</h4>
+<p>During the strategy development, we distilled all of the collected knowledge to derive concrete actions on how to best present the identified USP to our personas. Therefore, we worked out concrete methods, such as <strong>They-Ask-You-Answer (TAYA)</strong> or <strong>Search-Engine-Optimization (SEO)</strong>, to generate traffic and engage with the audience. Moreover, we <strong>identified concrete channels and the most suitable content</strong> for each of them. We condensed this knowledge into one of our final deliverables: the <strong>strategy paper</strong>.</p>
+<h4 id="strategy-implementation">Strategy implementation</h4>
+<blockquote>
+<p>A strategy is only as good as its implementation.</p>
+</blockquote>
+<p>Finally, we also implemented most of the recommended measures. More precisely, this involved <strong>setting up a net of Social Media channels</strong> and linking them amongst each other. Each account would be prefilled with <strong>content for the first weeks</strong>, ensuring a smooth transition to nestbau.</p>
+<h2 id="results">Results</h2>
+<p>During the project and after the final presentation, we received highly positive feedback on our work from nestbau. In the end, even two additional projects for InOne Consult evolved from this cooperation. After pitching this project to the JCNetwork (a national student consultancy association), we got awarded the best project of the year by PricewaterhouseCoopers (PwC).</p>
+<h2 id="learnings">Learnings</h2>
+<p>To conclude, for me, the project resembled an excellent opportunity to experience &ldquo;real&rdquo; consulting and applying different frameworks to solve not only theoretical cases. In summary, I learned about</p>
+<ul>
+<li>Consulting
+<ul>
+<li>Goal factoring</li>
+<li>Strategy development process</li>
+<li>Market analysis</li>
+</ul>
+</li>
+<li>Business
+<ul>
+<li>Social Media Marketing</li>
+<li>Search Engine Optimization (SEO)</li>
+<li>Agile project management (Scrum)</li>
+</ul>
+</li>
+<li>Soft skills
+<ul>
+<li>Interdisciplinary team-work</li>
+<li>Presentation skills</li>
+<li>Communication/writing skills</li>
+</ul>
+</li>
+</ul>
+<h2 id="links">Links</h2>
+<p>Here you will find feedback from the <a href="https://www.nestbau-ag.de/news/kooperation-mit-der-studentischen-unternehmensberatung-inone-consult-e-v">nestbau blog</a> and more information on the <a href="https://www.jcnetwork.de/projektdesjahres/ehemaligewinner/">JCN website</a>.</p>
+]]></content>
+        </item>
+        
     </channel>
 </rss>

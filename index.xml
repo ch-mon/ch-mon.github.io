@@ -22,16 +22,6 @@
     </item>
     
     <item>
-      <title>Thoughts from a fellow traveller</title>
-      <link>/posts/thoughtsfromafellowtraveler/</link>
-      <pubDate>Sat, 26 Sep 2020 20:00:00 +0100</pubDate>
-      
-      <guid>/posts/thoughtsfromafellowtraveler/</guid>
-      <description>Fully loaded bike in front of Lund University.
-  Last year, I traveled by bike for three months. Everything I needed, I could fit either into one of my four bags or over the rack (as you can see above). Even though it feels like I experienced more during those three months than during a typical year, the days were quite routinized. Wake up, meditate, have breakfast, pack the tent, cycle for 70-120 km, search for a spot to spend the night, set up the tent, have dinner, write journal, and fall asleep.</description>
-    </item>
-    
-    <item>
       <title>About</title>
       <link>/about/</link>
       <pubDate>Fri, 25 Sep 2020 14:00:00 +0100</pubDate>
@@ -77,6 +67,16 @@
       <guid>/projects/phasetransition/</guid>
       <description>The first principal component shows high correlation with the order parameter.
   Background This project is concerned with the work of my Bachelor&amp;rsquo;s thesis. During the four months, I investigated the phase transition of the Ising model with machine learning and applied the same methodology to another statistical model. Hereby, apart from a practical course during the studies, I had never worked with machine learning before. Thus, this was a great opportunity for me to dig deeper into the topic.</description>
+    </item>
+    
+    <item>
+      <title>N.E.S.T. project</title>
+      <link>/projects/nestproject/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/nestproject/</guid>
+      <description>Logo of the nestbau AG. Photo taken from the nestbau website.
+  Background During my time with the student consultancy InOne Consult e.V. in Tuebingen, I had the chance to work on several exciting projects. Amongst one of them was developing a Social Media Marketing Strategy for a local real estate investment fund. The N.E.S.T.bau AG (short nestbau) plans, builds, and rents out flats in the Tuebingen region under the guidance of ethical principles.</description>
     </item>
     
   </channel>

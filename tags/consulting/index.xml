@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>consulting on Chris Mony</title>
+    <link>/tags/consulting/</link>
+    <description>Recent content in consulting on Chris Mony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 28 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/consulting/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>N.E.S.T. project</title>
+      <link>/projects/nestproject/</link>
+      <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/nestproject/</guid>
+      <description>Logo of the nestbau AG. Photo taken from the nestbau website.
+  Background During my time with the student consultancy InOne Consult e.V. in Tuebingen, I had the chance to work on several exciting projects. Amongst one of them was developing a Social Media Marketing Strategy for a local real estate investment fund. The N.E.S.T.bau AG (short nestbau) plans, builds, and rents out flats in the Tuebingen region under the guidance of ethical principles.</description>
+    </item>
+    
+  </channel>
+</rss>
