@@ -18,7 +18,7 @@
       
       <guid>/projects/fashionrecognition/</guid>
       <description>Watch Classification. Photo by Eliud Gil Samaniego.
-  Background During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
+  Background During quarantine, some friends (Pano Herbe and two more) and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
     </item>
     
   </channel>

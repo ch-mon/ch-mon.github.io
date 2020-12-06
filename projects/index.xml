@@ -15,7 +15,7 @@
             
             <guid>/projects/fashionrecognition/</guid>
             <description>Watch Classification. Photo by Eliud Gil Samaniego.
-  Background During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
+  Background During quarantine, some friends (Pano Herbe and two more) and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</description>
             <content type="html"><![CDATA[<figure class="center">
     <img src="../images/WatchClassification.jpg"
          alt="Watch Classification. Photo by Eliud Gil Samaniego." height="500"/> <figcaption>
@@ -24,7 +24,7 @@
 </figure>
 
 <h2 id="background">Background</h2>
-<p>During quarantine, some friends and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</p>
+<p>During quarantine, some friends (<a href="https://www.linkedin.com/in/panagiotis-herbe/">Pano Herbe</a> and two more) and I decided to tackle an exciting project. It was concerned with training a Convolutional Neural Network (CNN) to recognize certain fashion articles in Instagram pictures. The final goal was to identify fashion objects from Instagram influencers, create potentially traffic-generating keywords, and use them for Google Ads marketing. This service would be especially valuable for data-driven fashion retailers who want to increase their click-through and conversion rate.</p>
 <h2 id="project-description">Project description</h2>
 <p>We started with the <a href="https://storage.googleapis.com/openimages/web/index.html">Google Open Image Database</a> and trained a <a href="https://pjreddie.com/darknet/yolo/">Yolo-V3</a> CNN in <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab</a> to recognize 25 different fashion articles (e.g. dresses, watches, &hellip;) on several thousands of pictures. Afterward, we scraped images from selected Instagram influencer accounts and used the trained CNN for classification of fashion articles in those images. Then, we cropped the detected items and identified the main color via a k-means clustering algorithm. Finally, we were able to build a keyword of the form &ldquo;Influencer name + main color + fashion article&rdquo; (e.g. &ldquo;David Beckham Golden Watch&rdquo;). We also built a small front-end for the CNN classification using <a href="https://www.streamlit.io/">Streamlit</a>. In the next paragraph, I discuss what would happen to the keyword after generation.</p>
 <p>The whole project is based upon one assumption: <em>Influencer Instagram posts with fashion articles lead to increased search volume for this article in the consecutive hours/days</em>. First, we tried to verify this thesis manually, however then moved on to apply an automated Google Trends Mapping. We queried the keyword to GoogleTrends via a Python-API (<a href="https://pypi.org/project/pytrends/">PyTrends</a>) and checked for any significant peaks in the search interest. In contrast, in production, one would directly use the obtained keyword for Google Ads. The whole project pipeline is illustrated below.</p>
@@ -118,7 +118,7 @@
         <item>
             <title>N.E.S.T. project</title>
             <link>/projects/nestproject/</link>
-            <pubDate>Wed, 28 Feb 2018 00:00:00 +0000</pubDate>
+            <pubDate>Wed, 11 Apr 2018 00:00:00 +0000</pubDate>
             
             <guid>/projects/nestproject/</guid>
             <description>Logo of the nestbau AG. Photo taken from the nestbau website.
