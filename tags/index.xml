@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 26 Sep 2020 20:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>geospatial analysis</title>
+      <link>/tags/geospatial-analysis/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/geospatial-analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>machine learning</title>
+      <link>/tags/machine-learning/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/machine-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>supervised learning</title>
+      <link>/tags/supervised-learning/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/supervised-learning/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>reflection</title>
@@ -48,29 +75,11 @@
     </item>
     
     <item>
-      <title>machine learning</title>
-      <link>/tags/machine-learning/</link>
-      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/machine-learning/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>scraping</title>
       <link>/tags/scraping/</link>
       <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
       
       <guid>/tags/scraping/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>supervised learning</title>
-      <link>/tags/supervised-learning/</link>
-      <pubDate>Sat, 22 Aug 2020 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/supervised-learning/</guid>
       <description></description>
     </item>
     
