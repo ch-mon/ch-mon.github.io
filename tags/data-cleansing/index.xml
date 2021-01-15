@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>data cleansing on Chris Mony</title>
+    <link>/tags/data-cleansing/</link>
+    <description>Recent content in data cleansing on Chris Mony</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/data-cleansing/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Hack4Good</title>
+      <link>/projects/hack4good/</link>
+      <pubDate>Sat, 28 Nov 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/projects/hack4good/</guid>
+      <description>Hack4Good Banner. Photo from the H4G website.
+  Background During my time at ETH Zurich, my team (big shout-out to Frederike Lübeck, Kaoru Schwarzenegger, and Vincent Bardenhagen) and I had the chance to participate in the two-month-long sustainability Hack4Good program. This hackathon was organized by the Analytics Club and the Student Project House (SPH) at ETH. Five teams would be presented with challenges and data offered by different NGOs and solve the former within the given timeframe.</description>
+    </item>
+    
+  </channel>
+</rss>
