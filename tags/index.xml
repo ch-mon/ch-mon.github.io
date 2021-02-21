@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Chris Mony</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 Nov 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Dec 2020 12:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>environment</title>
+      <link>/tags/environment/</link>
+      <pubDate>Sat, 05 Dec 2020 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/environment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>goals</title>
+      <link>/tags/goals/</link>
+      <pubDate>Sat, 05 Dec 2020 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/goals/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>values</title>
+      <link>/tags/values/</link>
+      <pubDate>Sat, 05 Dec 2020 12:00:00 +0100</pubDate>
+      
+      <guid>/tags/values/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>data cleansing</title>
